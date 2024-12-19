@@ -1,6 +1,6 @@
 ### Anthropogenic activity and climate change exacerbate the spread of pathogenic bacteria in the environment
 
-## Main features
+## Introduction
 
 -   The `map_spatial` folder contains scripts for pridicting the global distribution of human pathogenic bacteria **richness** by spliting dataset through spatial isolation.
 -   The `map_spatial_abun` folder contains scripts for pridicting the global distribution of human pathogenic bacteria **abundance** by spliting dataset through spatial isolation.
