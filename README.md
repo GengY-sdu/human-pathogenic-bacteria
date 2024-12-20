@@ -14,3 +14,4 @@
 -   The `map_spatial` folder contains scripts for pridicting the global distribution of human pathogenic bacteria by spliting dataset through spatial isolation.
 -   The `map_spatial` folder contains scripts for pridicting the global distribution of human pathogenic bacteria by spliting dataset through spatial isolation.
 -   The `map_spatial` folder contains scripts for pridicting the global distribution of human pathogenic bacteria by spliting dataset through spatial isolation.
+-   The map used in scripts were downloaded from worldclim2
