@@ -15,7 +15,7 @@ colnames(history_dataset)[2:20] <- colnames(history_dataset)[2:20]|>stringr::str
 history_dataset <- history_dataset[,c(1,2,13:20,3:12)]
 colnames(history_dataset)[2:10] <- paste0("bio0",1:9)
 colnames(history_dataset)
-save(history_dataset,file = 'pathogen/future_spatial_cv_abun/history_dataset_nohuman.Rdata')
+save(history_dataset,file = 'pathogen/future_spatial_cv_abun/history_dataset_nohuman_abun.Rdata')
 
 
 
