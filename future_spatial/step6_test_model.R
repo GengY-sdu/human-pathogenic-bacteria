@@ -1,4 +1,5 @@
 #step6:test model###############################################################
+library(caret)
 rm(list = ls())
 
 load(file = 'pathogen/future_spatial/history_dataset_nohuman.Rdata')
