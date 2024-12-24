@@ -9,7 +9,7 @@ load("pathogen/future_EMP/rffuncs_future_terra_nohuman.rdata")
 optvar <- rfFuncs$optVariables
 max(rfFuncs$results$Rsquared)
 
-set.seed(44)
+set.seed(51)
 load(file = 'pathogen/future_EMP/inTrain.Rdata')
 data_train <- Data[inTrain,]
 data_test <- Data[-inTrain,]
