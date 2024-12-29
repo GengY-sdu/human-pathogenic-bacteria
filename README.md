@@ -18,4 +18,4 @@ Please place these files in a folder named `pathogen` and set default working di
 
 ## Please note
 
-Please download the map data for analysis from xx.
+Please download the map data for analysis from ftp://202.194.20.63/ by FTP download software, such as `FileZilla`. You can also use the `File Explorer` on the Windows system to download data.
