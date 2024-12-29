@@ -144,7 +144,7 @@ rfmodel10
 predictRF_10 <- predict(rfmodel10,newdata = testx)
 rsq(testy, predictRF_10)
 
-mapset <- read.csv(file = 'pathogen/map_EMP/map.csv')
+mapset <- read.csv(file = 'pathogen/map_EMP/map_EMP.csv')
 predictRF1 <- predict(rfmodel1,newdata = mapset)
 predictRF2 <- predict(rfmodel2,newdata = mapset)
 predictRF3 <- predict(rfmodel3,newdata = mapset)
