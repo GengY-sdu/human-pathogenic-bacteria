@@ -14,7 +14,7 @@ Please place these files in a folder named `pathogen` and set default working di
 
 -   Folder ending in `remove` or `remove_abun`: Remove the commensal. Among them, `map_remove` and `map_remove_abun` are used to predict the global distribution of richness and abundance of HPB excluding commensal. `future_remove` and `future_remove_abun` are used to analyze the impact of climate change on HPB excluding commensal.
 
--   Folder ending in `EMP`: Analyze using the Earth Microbiome Project (EMP). Among them, `map_remove` and `map_EMP` are used to predict the global distribution of HPB. `future_EMP` are used to analyze the impact of climate change on HPB.
+-   Folder ending in `EMP`: Analyze using the Earth Microbiome Project (EMP). Among them, `map_EMP` is used to predict the global distribution of HPB. `future_EMP` is used to analyze the impact of climate change on HPB.
 
 ## Please note
 
